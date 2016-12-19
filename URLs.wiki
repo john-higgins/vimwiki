@@ -1,0 +1,7 @@
+= Online resourses =
+
+== Vimwiki ==
+http://vimwiki.github.io/
+
+== Python wheels ==
+http://www.lfd.uci.edu/%7Egohlke/pythonlibs/

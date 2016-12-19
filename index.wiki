@@ -1,0 +1,28 @@
+= My knowledge base =
+== Programming ==
+* [[Python]]
+* C#
+* ASP.NET
+* JavaScript
+* Django
+
+== Programs ==
+* Vim
+* [[Git]]
+* Visual Studio
+* PowerShell
+* Bash
+
+= Reading list =
+* [[URLs]]
+* Saved offline
+
+= Notes =
+* Notepad
+
+= TODO lists =
+* December
+
+= Vimwiki =
+* [[Notes]]
+

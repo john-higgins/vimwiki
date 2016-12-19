@@ -1,0 +1,11 @@
+= Git notes =
+
+== List remote branches ==
+git branch -r
+
+== Delete local branch ==
+git branch -d _<branch name>_
+
+== Delete remote branch ==
+git push origin --delete _<branch_name>_
+
