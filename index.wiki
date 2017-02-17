@@ -7,21 +7,29 @@
 * Django
 
 == Programs ==
-* Vim
+* [[Vim]]
 * [[Git]]
 * Visual Studio
-* PowerShell
+* [[PowerShell]]
 * Bash
+* [[ConEmu]]
 
 = Reading list =
 * [[URLs]]
 * Saved offline
 
+= Security Research =
+* Footprinting
+* [[Windows Privilege Escalation]]
+* Linux Privilege Escalation
+* Passwords
+
 = Notes =
-* Notepad
+* [[Notepad]]
 
 = TODO lists =
-* December
+* [[December 2016]]
+* [[February 2017]]
 
 = Vimwiki =
 * [[Notes]]

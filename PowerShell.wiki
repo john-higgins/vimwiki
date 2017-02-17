@@ -1,0 +1,12 @@
+== PowerShell notes ==
+=== List directory contents ===
+Get-ChildItem
+
+=== Create new file ===
+New-Item file.txt -type file
+
+=== Get file hash ===
+Get-FileHash file.txt -Alogrithm sha1
+
+=== Loop through files in a directory ===
+Get-ChildItem "C:\path\directory" -Filter *.txt -recurse | Foreach-Object {Get-FileHash $_.FullName -Algorithm sha1}

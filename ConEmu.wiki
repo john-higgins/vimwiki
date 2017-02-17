@@ -1,0 +1,9 @@
+== Split panes ==
+shift + [+] button to open dialog
+
+== Tabs ==
+Ctrl+Tab
+
+== Keyboard shortcuts ==
+http://conemu.github.io/en/KeyboardShortcuts.html
+
